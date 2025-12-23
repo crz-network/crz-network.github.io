@@ -8,4 +8,4 @@
 - theres this thing where top 3 game ideas in terms of votes are chosen to be made
 - isnt that cool
 - you can go to it at uhh
-- [here i guess](https://clarita-supermilitary-aubrianna.ngrok-free.dev/games/)
+- [here i guess](https://crz.network:21212/)
